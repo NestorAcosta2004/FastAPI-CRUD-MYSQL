@@ -1,1 +1,1 @@
-# FastAPI & SQLAlchemy Mysql REST API
+# Python, FastAPI, SQLAlchemy
